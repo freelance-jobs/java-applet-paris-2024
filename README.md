@@ -1,6 +1,6 @@
 # java-applet-paris-2024
 
-a few days ago someone asked me to write them a java applet to print olympic rings and print "PARIS 2024" on screen. Althought java applets are not common anymore I thought it would be useful to share this code so that anyone else who'd wanna find out how to do it and refer to this and learn from it. 
+a few days ago someone asked me to write them a java applet to print olympic rings and print "PARIS 2024" on screen. Althought java applets are not common anymore I thought it would be useful to share this code so that anyone else who'd wanna find out how to do it and refer to this and learn from it. Note that you need Java 8 or lower to run applets.
 
 Here's the full problem
 
